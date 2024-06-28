@@ -1,5 +1,6 @@
 ![NATS](src/main/javadoc/images/large-logo.png)
-
+[!IMPORTANT]
+important
 # NATS - Java Client
 
 ### A [Java](http://java.com) client for the [NATS messaging system](https://nats.io).
